@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-Link : https://teghsinghj.github.io/TextUtil/index.html
+Link : https://657461665d23535cade34b3f--taupe-hummingbird-8b9cf8.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
